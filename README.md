@@ -1,5 +1,7 @@
 # WildVector
 
+*A project for OpenAI's GPT-5.6 hackathon.*
+
 WildVector is a classroom migration-weather lab covering three deeply modeled animals: turkey vultures (Eastern North American flyway), Arctic foxes (Canadian High Arctic), and blue whales (Northeast Pacific). Students compare recorded spring and fall journeys against model "what-if" weather scenarios, rendered as a live-animated map. Recorded journeys are never moved; scenario routes are labeled model projections, not observations.
 
 ## Quick start
